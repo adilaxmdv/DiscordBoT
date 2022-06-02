@@ -5,7 +5,7 @@
 
 pip install discord.py
 
-### Create config.ini and it:
+### Create config.ini and These:
 
 [discord]
 

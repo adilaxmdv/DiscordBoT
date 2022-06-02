@@ -5,7 +5,7 @@
 
 pip install discord.py
 
-and creade config.ini 
+#And creade config.ini 
 
 [discord]
 
